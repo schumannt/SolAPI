@@ -1,0 +1,19 @@
+{
+  "name": "solera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SoleraApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "bookshelf": "^0.10.0",
+    "knex": "^0.11.10",
+    "mocha": "^3.0.2",
+    "mysql": "^2.11.1",
+    "should": "^11.1.0"
+  }
+}
